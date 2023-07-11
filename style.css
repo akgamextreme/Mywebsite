@@ -1,0 +1,46 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    color: white;
+}
+
+.main {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.wrapper {
+    text-align: center;
+    justify-content: center;
+}
+
+.wrapper {
+    width: 80%;
+    height: 80%;
+    background-color: rgb(25, 25, 25);
+    border: 5px solid rgb(50, 50, 50);
+    border-radius: 15px;
+    justify-content: center
+}
+
+.header {
+    height: 10%;
+    width: 100%;
+    justify-content: center;
+}
+
+.btn {
+    height: 30px;
+    width: 60px;
+    font-size: large;
+    font-family: 'Overpass', sans-serif;
+    background-color: black;
+    border: 1px solid black;
+    border-radius: 15px;
+    color: white;
+}
